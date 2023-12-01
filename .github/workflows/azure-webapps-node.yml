@@ -1,4 +1,4 @@
-p# This workflow will build and push a node.js applicat
+# This workflow will build and push a node.js applicat
 ion to an Azure Web App when a commit is pushed to your default branch.
 #
 # This workflow assumes you have already created the target Azure App Service web app.
